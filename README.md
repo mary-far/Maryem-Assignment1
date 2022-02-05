@@ -12,4 +12,11 @@ INSTRUCTIONS TO USE
          
          
          
+         
+    I chose the MIT-LICENCE because I want anyone to make changes to my project, if people want to make
+    commercial use of my project I want to allow that as well.
+    
+    
+         
+         
        
